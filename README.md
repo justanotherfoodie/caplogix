@@ -68,3 +68,4 @@ On Windows, double-click **`run.bat`** instead.
 Built by [Your Name] · [gongyauc@gmail.com](mailto:gongyauc@gmail.com)  
 Available for portfolio modelling, LRP design, and capital allocation consulting.
 "# caplogix" 
+"# caplogix" 
