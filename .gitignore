@@ -33,3 +33,7 @@ desktop.ini
 .vscode/
 .idea/
 *.swp
+LRP*.docx 
+LRP*.xlsx 
+"new manuscript.docx" 
+.claude/ 
