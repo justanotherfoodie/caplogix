@@ -65,7 +65,7 @@ On Windows, double-click **`run.bat`** instead.
 
 ## Contact
 
-Built by [Your Name] · [gongyauc@gmail.com](mailto:gongyauc@gmail.com)  
+Built by [Yuxuan Gong] · [gongyauc@gmail.com](mailto:gongyauc@gmail.com)  
 Available for portfolio modelling, LRP design, and capital allocation consulting.
 "# caplogix" 
 "# caplogix" 
