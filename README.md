@@ -1,4 +1,4 @@
-# CapLogiX — Strategic Portfolio Manager
+# CapLogiX — Strategic Portfolio Manager (Please note: this is the demo version, based on deterministic approaches. Non-demo version is based stochastic modeling.)
 
 A local-first LRP (Long Range Planning) portfolio tool for capital project sequencing, financial modelling, and strategic prioritisation.
 
@@ -68,4 +68,5 @@ On Windows, double-click **`run.bat`** instead.
 Built by [Yuxuan Gong] · [gongyauc@gmail.com](mailto:gongyauc@gmail.com)  
 Available for portfolio modelling, LRP design, and capital allocation consulting.
 "# caplogix" 
+
 "# caplogix" 
